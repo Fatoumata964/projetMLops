@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/868643733861282102
+creation_time: 1725353800210
+experiment_id: '868643733861282102'
+last_update_time: 1725353800210
+lifecycle_stage: active
+name: Credit_Default_Models
